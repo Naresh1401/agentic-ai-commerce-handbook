@@ -1,0 +1,2 @@
+"""Partner integration POC project."""
+
